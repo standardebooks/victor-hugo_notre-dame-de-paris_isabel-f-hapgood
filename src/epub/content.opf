@@ -55,9 +55,10 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An archdeacon of Notre-Dame and his bellringer fall in love with the same woman with tragic results.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			<p>LONG_DESCRIPTION</p>
+			<p>Esmeralda is a breath-taking beauty and attracts the attention of men all around her, including an actor, a captain, and an archdeacon, to whom she is course forbidden. But there is one whose love for her is pure: the archdeacon’s bellringer. The actions of the archdeacon, who cannot control his lust for the young woman, ultimately draws all four men into her, and his, orbit, with tragic consequences.</p>
+			<p>Hugo’s gothic novel is an ode to gothic architecture in general and Notre-Dame de Paris’ in particular. Hugo was upset at the neglect of buildings like Notre-Dame, and when not neglected, then modernized. By centering on the building, he was able to bring all classes into his story: from kings and nobles to bellringers and sewer rats. The first American translation changed the title to “The Hunchback of Notre Dame,” shifting attention to Quasimodo, but Hugo’s focus was the building, not the bellringer.</p>
 		]]></meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2610</dc:source>
@@ -75,10 +76,10 @@
 		<dc:contributor id="translator">Isabel F. Hapgood</dc:contributor>
 		<meta property="file-as" refines="#translator">Hapgood, Isabel F.</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Jean-François Raffaëlli</dc:contributor>
+		<meta property="file-as" refines="#artist">Raffaëlli, Jean-François</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean-François_Raffaëlli</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83301328</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Peter Snow Cao</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Cao, Peter Snow</meta>
