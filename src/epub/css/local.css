@@ -39,3 +39,8 @@ p span.i2{
 	text-indent: -1em;
 	padding-left: 3em;
 }
+
+#note p:last-child{
+	margin-top: 1em;
+}
+
