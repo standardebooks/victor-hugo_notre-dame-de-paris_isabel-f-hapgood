@@ -56,10 +56,10 @@
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An archdeacon of Notre-Dame and his bellringer fall in love with the same woman with tragic results.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			<p>Esmeralda is a breath-taking beauty and attracts the attention of men all around her, including an actor, a captain, and an archdeacon, to whom she is course forbidden. But there is one whose love for her is pure: the archdeacon’s bellringer. The actions of the archdeacon, who cannot control his lust for the young woman, ultimately draws all four men into her, and his, orbit, with tragic consequences.</p>
-			<p>Hugo’s gothic novel is an ode to gothic architecture in general and Notre-Dame de Paris’ in particular. Hugo was upset at the neglect of buildings like Notre-Dame, and when not neglected, then modernized. By centering on the building, he was able to bring all classes into his story: from kings and nobles to bellringers and sewer rats. The first American translation changed the title to “The Hunchback of Notre Dame,” shifting attention to Quasimodo, but Hugo’s focus was the building, not the bellringer.</p>
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Esmeralda is a breath-taking beauty and attracts the attention of men all around her, including an actor, a captain, and an archdeacon, to whom she is course forbidden. But there is one whose love for her is pure: the archdeacon’s bellringer. The actions of the archdeacon, who cannot control his lust for the young woman, ultimately draws all four men into her, and his, orbit, with tragic consequences.&lt;/p&gt;
+			&lt;p&gt;Hugo’s gothic novel is an ode to gothic architecture in general and Notre-Dame de Paris’ in particular. Hugo was upset at the neglect of buildings like Notre-Dame, and when not neglected, then modernized. By centering on the building, he was able to bring all classes into his story: from kings and nobles to bellringers and sewer rats. The first American translation changed the title to “The Hunchback of Notre Dame,” shifting attention to Quasimodo, but Hugo’s focus was the building, not the bellringer.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2610</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -75,6 +75,9 @@
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator">Isabel F. Hapgood</dc:contributor>
 		<meta property="file-as" refines="#translator">Hapgood, Isabel F.</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Isabel_Florence_Hapgood</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50019138</meta>
+		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Jean-François Raffaëlli</dc:contributor>
 		<meta property="file-as" refines="#artist">Raffaëlli, Jean-François</meta>
