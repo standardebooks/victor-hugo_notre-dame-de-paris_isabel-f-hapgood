@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-10-1.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Title "Rue des Bernadins" is correctly capitalized in the title.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
