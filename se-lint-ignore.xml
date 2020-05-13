@@ -11,5 +11,9 @@
 			<code>t-003</code>
 			<reason>Matched text is part of longer dialog.</reason>
 		</ignore>
+		<ignore>
+			<code>t-043</code>
+			<reason>Matched text is not a dialog tag.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
