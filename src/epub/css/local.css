@@ -2,6 +2,10 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
 [epub|type~="preface"] p:last-child{
 	font-variant: small-caps;
 	margin-top: 1em;
