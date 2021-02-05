@@ -53,7 +53,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
-		<meta property="term" refines="#subject-7">Unknown</meta>
+		<meta property="term" refines="#subject-7">sh85114965</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An archdeacon of Notre-Dame and his bellringer fall in love with the same gypsy, with tragic results.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
