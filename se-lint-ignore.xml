@@ -6,7 +6,7 @@
 			<reason>Matched text is part of longer dialog.</reason>
 		</ignore>
 		<ignore>
-			<code>t-042</code>
+			<code>y-031</code>
 			<reason>Matched text is not a dialog tag.</reason>
 		</ignore>
 	</file>
