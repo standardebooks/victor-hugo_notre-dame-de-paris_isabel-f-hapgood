@@ -54,6 +54,8 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh85114965</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">An archdeacon of Notre-Dame and his bellringer fall in love with the same gypsy, with tragic results.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Esmeralda is a breathtaking beauty and attracts the attention of men all around her, including an actor, a captain, and an archdeacon, to whom she is of course forbidden. But because of a kindness she paid to him, there is one whose love for her is pure: the archdeacon’s bellringer. The actions of the archdeacon, who cannot control his lust for the young woman, ultimately draws all four men into her orbit, and his, with tragic consequences.&lt;/p&gt;
