@@ -67,7 +67,7 @@
 		<dc:source>https://books.google.com/books?id=NXoUAAAAYAAJ</dc:source>
 		<meta property="se:word-count">184008</meta>
 		<meta property="se:reading-ease.flesch">69.82</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Notre-Dame_de_Paris</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/victor-hugo_notre-dame-de-paris_isabel-f-hapgood</meta>
 		<dc:creator id="author">Victor Hugo</dc:creator>
 		<meta property="file-as" refines="#author">Hugo, Victor</meta>
