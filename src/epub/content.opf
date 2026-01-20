@@ -65,7 +65,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2610</dc:source>
 		<dc:source>https://books.google.com/books?id=NXoUAAAAYAAJ</dc:source>
-		<meta property="se:word-count">184008</meta>
+		<meta property="se:word-count">183195</meta>
 		<meta property="se:reading-ease.flesch">69.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/victor-hugo_notre-dame-de-paris_isabel-f-hapgood</meta>
