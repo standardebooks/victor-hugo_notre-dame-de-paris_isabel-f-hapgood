@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-8-6.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Matched text is part of longer dialog.</reason>
 		</ignore>
-		<ignore>
-			<code>y-031</code>
+		<ignore code="y-031">
 			<reason>Matched text is not a dialog tag.</reason>
 		</ignore>
 	</file>
