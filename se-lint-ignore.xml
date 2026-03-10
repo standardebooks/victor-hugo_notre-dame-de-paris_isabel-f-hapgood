@@ -2,9 +2,11 @@
 <se-lint-ignore>
 	<file path="chapter-8-6.xhtml">
 		<ignore code="t-003">
+			<line>127</line>
 			<reason>Matched text is part of longer dialog.</reason>
 		</ignore>
 		<ignore code="y-031">
+			<line>130</line>
 			<reason>Matched text is not a dialog tag.</reason>
 		</ignore>
 	</file>
