@@ -35,11 +35,11 @@
 		<meta property="title-type" refines="#title-alternate">alternate</meta>
 		<meta property="file-as" refines="#title-alternate">Hunchback of Notre Dame, The</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
-		<dc:subject id="subject-2">People with disabilities -- Fiction</dc:subject>
-		<dc:subject id="subject-3">France -- History -- Louis XI, 1461-1483 -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Clergy -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Paris (France) -- History -- To 1515 -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Notre-Dame de Paris (Cathedral) -- Fiction</dc:subject>
+		<dc:subject id="subject-2">People with disabilities--Fiction</dc:subject>
+		<dc:subject id="subject-3">France--History--Louis XI, 1461-1483--Fiction</dc:subject>
+		<dc:subject id="subject-4">Clergy--Fiction</dc:subject>
+		<dc:subject id="subject-5">Paris (France)--History--To 1515--Fiction</dc:subject>
+		<dc:subject id="subject-6">Notre-Dame de Paris (Cathedral)--Fiction</dc:subject>
 		<dc:subject id="subject-7">Romances</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
