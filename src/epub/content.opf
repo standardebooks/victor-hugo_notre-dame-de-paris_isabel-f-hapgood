@@ -74,6 +74,7 @@
 		<link href="https://github.com/standardebooks/victor-hugo_notre-dame-de-paris_isabel-f-hapgood" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Victor Hugo</dc:creator>
 		<meta property="file-as" refines="#author">Hugo, Victor</meta>
+		<meta property="schema:alternateName" refines="#author">Victor Marie Hugo</meta>
 		<link href="https://en.wikipedia.org/wiki/Victor_Hugo" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79091479.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
@@ -82,12 +83,13 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator">Isabel F. Hapgood</dc:contributor>
 		<meta property="file-as" refines="#translator">Hapgood, Isabel F.</meta>
+		<meta property="schema:alternateName" refines="#translator">Isabel Florence Hapgood</meta>
 		<link href="https://en.wikipedia.org/wiki/Isabel_Florence_Hapgood" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50019138.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Jean-François Raffaëlli</dc:contributor>
 		<meta property="file-as" refines="#artist">Raffaëlli, Jean-François</meta>
-		<link href="https://en.wikipedia.org/wiki/Jean-François_Raffaëlli" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Raffa%C3%ABlli" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n83301328.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Peter Snow Cao</dc:contributor>
@@ -96,6 +98,7 @@
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-2" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
